@@ -1,6 +1,6 @@
 # prova
 
-A new Flutter project.
+Repositorio da prova do dia 7/10.
 
 ## Getting Started
 
